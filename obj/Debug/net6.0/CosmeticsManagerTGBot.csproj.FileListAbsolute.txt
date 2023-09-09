@@ -1,0 +1,46 @@
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\CosmeticsManagerTGBot.exe
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\CosmeticsManagerTGBot.deps.json
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\CosmeticsManagerTGBot.runtimeconfig.json
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\CosmeticsManagerTGBot.dll
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\CosmeticsManagerTGBot.pdb
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\Telegram.Bot.dll
+D:\programming\CosmeticsManagerTGBot\obj\Debug\net6.0\CosmeticsManagerTGBot.csproj.AssemblyReference.cache
+D:\programming\CosmeticsManagerTGBot\obj\Debug\net6.0\CosmeticsManagerTGBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\CosmeticsManagerTGBot\obj\Debug\net6.0\CosmeticsManagerTGBot.AssemblyInfoInputs.cache
+D:\programming\CosmeticsManagerTGBot\obj\Debug\net6.0\CosmeticsManagerTGBot.AssemblyInfo.cs
+D:\programming\CosmeticsManagerTGBot\obj\Debug\net6.0\CosmeticsManagerTGBot.csproj.CoreCompileInputs.cache
+D:\programming\CosmeticsManagerTGBot\obj\Debug\net6.0\CosmeticsManagerTGBot.csproj.CopyComplete
+D:\programming\CosmeticsManagerTGBot\obj\Debug\net6.0\CosmeticsManagerTGBot.dll
+D:\programming\CosmeticsManagerTGBot\obj\Debug\net6.0\refint\CosmeticsManagerTGBot.dll
+D:\programming\CosmeticsManagerTGBot\obj\Debug\net6.0\CosmeticsManagerTGBot.pdb
+D:\programming\CosmeticsManagerTGBot\obj\Debug\net6.0\CosmeticsManagerTGBot.genruntimeconfig.cache
+D:\programming\CosmeticsManagerTGBot\obj\Debug\net6.0\ref\CosmeticsManagerTGBot.dll
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\Google.Apis.dll
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\Google.Apis.Auth.dll
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\Google.Apis.Core.dll
+D:\programming\CosmeticsManagerTGBot\bin\Debug\net6.0\Google.Apis.Sheets.v4.dll
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\CosmeticsManagerTGBot.exe
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\CosmeticsManagerTGBot.deps.json
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\CosmeticsManagerTGBot.runtimeconfig.json
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\CosmeticsManagerTGBot.dll
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\CosmeticsManagerTGBot.pdb
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\Google.Apis.dll
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\Google.Apis.Auth.dll
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\Google.Apis.Core.dll
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\Google.Apis.Sheets.v4.dll
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\programming\CosmeticsManagerTGBot - Copy\bin\Debug\net6.0\Telegram.Bot.dll
+D:\programming\CosmeticsManagerTGBot - Copy\obj\Debug\net6.0\CosmeticsManagerTGBot.csproj.AssemblyReference.cache
+D:\programming\CosmeticsManagerTGBot - Copy\obj\Debug\net6.0\CosmeticsManagerTGBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\CosmeticsManagerTGBot - Copy\obj\Debug\net6.0\CosmeticsManagerTGBot.AssemblyInfoInputs.cache
+D:\programming\CosmeticsManagerTGBot - Copy\obj\Debug\net6.0\CosmeticsManagerTGBot.AssemblyInfo.cs
+D:\programming\CosmeticsManagerTGBot - Copy\obj\Debug\net6.0\CosmeticsManagerTGBot.csproj.CoreCompileInputs.cache
+D:\programming\CosmeticsManagerTGBot - Copy\obj\Debug\net6.0\CosmeticsManagerTGBot.csproj.CopyComplete
+D:\programming\CosmeticsManagerTGBot - Copy\obj\Debug\net6.0\CosmeticsManagerTGBot.dll
+D:\programming\CosmeticsManagerTGBot - Copy\obj\Debug\net6.0\refint\CosmeticsManagerTGBot.dll
+D:\programming\CosmeticsManagerTGBot - Copy\obj\Debug\net6.0\CosmeticsManagerTGBot.pdb
+D:\programming\CosmeticsManagerTGBot - Copy\obj\Debug\net6.0\CosmeticsManagerTGBot.genruntimeconfig.cache
+D:\programming\CosmeticsManagerTGBot - Copy\obj\Debug\net6.0\ref\CosmeticsManagerTGBot.dll
